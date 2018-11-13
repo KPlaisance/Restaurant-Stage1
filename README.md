@@ -26,6 +26,8 @@ Normally the mouse is used to control the application. However with this site, t
 
 On the restaurant detail page, the same functionality works. You start on the home link, then to the "Home" breadcrumb, to each review and finally to the footer. Both home links are active hyperlinks which can be accessed by pressing the Enter key.
 
+All content-related images include appropriate alternate text that clearly describes the content of the image.
+
 ## Caching:
 
 An important component of this project is the ability to cache the pages for offline viewing. This is accomplished by using a Service Worker Javascript file. This file loads all the pages into the user's computer cache. This was tested by taking the site offline and full functionality was restored.
