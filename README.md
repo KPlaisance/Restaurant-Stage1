@@ -8,6 +8,8 @@
 
 For the Stage 1 of the **Restaurant Reviews** project, I incrementally converted a static webpage to a mobile-ready web application. To accomplish this, I added accessibility and converted the design to be responsive on different sized displays and accessible for screen reader use. In addition I added a service worker to begin the process of creating a seamless experience for offline users.
 
+I used a walkthrough by Matthew Cranford and Udacity as reference with help. The links are in the Udacity walkthrough page: https://www.diigo.com/outliner/fjslyn/Udacity-Restaurant-Reviews-App-(project-%235)?key=zqiopam1yz
+
 ### How do I run the application?
 
 1. After downloading the files to your local computer, navigate to the root directory.
@@ -25,6 +27,8 @@ This can be done within a terminal. Check the version of Python you have: `pytho
 Normally the mouse is used to control the application. However with this site, tabbed functionality has been implemented as well. By pressing tab on the keyboard, the user can navigate through the various parts of the app. The first tabbed link is the home link, then the Filter Results, each of the View Details buttons, and finally the footer. Each element (except the footer) is a hyperlink that will take the user somewhere by pressing the Enter key.
 
 On the restaurant detail page, the same functionality works. You start on the home link, then to the "Home" breadcrumb, to each review and finally to the footer. Both home links are active hyperlinks which can be accessed by pressing the Enter key.
+
+All content-related images include appropriate alternate text that clearly describes the content of the image.
 
 ## Caching:
 
