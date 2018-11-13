@@ -164,7 +164,7 @@ createReviewHTML = (review) => {
   comments.innerHTML = review.comments;
   li.appendChild(comments);
  
-  li.tabIndex = "2";
+  li.tabIndex = "3";
 
   return li;
 }
