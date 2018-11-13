@@ -8,6 +8,8 @@
 
 For the Stage 1 of the **Restaurant Reviews** project, I incrementally converted a static webpage to a mobile-ready web application. To accomplish this, I added accessibility and converted the design to be responsive on different sized displays and accessible for screen reader use. In addition I added a service worker to begin the process of creating a seamless experience for offline users.
 
+I used a walkthrough by Matthew Cranford and Udacity as reference with help. The links are in the Udacity walkthrough page: https://www.diigo.com/outliner/fjslyn/Udacity-Restaurant-Reviews-App-(project-%235)?key=zqiopam1yz
+
 ### How do I run the application?
 
 1. After downloading the files to your local computer, navigate to the root directory.
